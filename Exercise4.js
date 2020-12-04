@@ -98,7 +98,7 @@ operation = 0;
 console.log("");
 
 // Question 11
-console.log("Question 11")
+console.log("Question 11");
 var sixthTest;
 var average = 85;
 var grades = [75, 70, 85, 90, 100, sixthTest];
