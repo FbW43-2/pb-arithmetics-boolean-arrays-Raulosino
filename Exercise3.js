@@ -3,11 +3,9 @@ console.log("Step 1:");
 var myArray = ["Varrock", "lumbridge", "Ardougne", "Camelot", "Lumbridge"];
 
 for (var i = 0; i < myArray.length; i++) {
-    i++;
     console.log("Position: " + i);
     console.log("Value: " + myArray[i]);
     console.log("");
-    i--;
 }
 
 
