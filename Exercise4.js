@@ -1,4 +1,4 @@
-var operation;
+var operation=0;
 
 // Question 1
 console.log("Question 1:");
